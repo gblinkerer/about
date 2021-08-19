@@ -35,7 +35,7 @@ Name　　Postal Service Center + Identifier　　APO, AP ZIP
 Name　　Postal Service Center + Identifier　　FPO, AP ZIP
 通过让所有海外军事邮件符合国内邮件处理计划，美国邮政可以轻松的使用其先进的邮件处理机器分类和处理这些海外军事邮件，就如处理普通邮件一样。
 
-如果你的地址包含了APO/FPO的时候，就一定要多问问货运代理商是否能够送到；有些货运代理商即使是USPS也是无法送到APO/FP哦地址的；
+如果你的地址包含了APO/FPO的时候，就一定要多问问货运代理商是否能够送到；有些货运代理商即使是USPS也是无法送到APO/FPO地址的；
 
 
 ![image](https://user-images.githubusercontent.com/89124962/130026133-36ec34b4-c02d-4c28-a351-64fe0bcf5564.png)
