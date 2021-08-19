@@ -1,3 +1,5 @@
+## 什么是PO Box/ APO/FPO？
+
 PO Box也可以写为Postal Box，它是Post Office Box的缩写，意思即“邮政信箱”，目前在世界各地使用都很普遍，是当地邮局专门设置的一屋子的可上锁的、唯一编号的、可寻址的小铁箱子，可以个人租用也可以企业租用。根据邮箱大小及放置位置不同，租用价格有所不同，邮箱越大价格会越高，而在中心商业区的价格也相对高些。
 
 在许多国家，特别是在非洲和中东地区的一些国家，不存在上门投送邮件的情况。在这些国家，历来都是租用邮政信箱来接收邮件。其实我们中国也有类似P.O Box，就是我们俗称的信箱，每栋商品房、单位房、单位首层基本都设有住户的信箱，类似你家的水费电费条子都会投进去。
@@ -14,17 +16,17 @@ PO Box也可以写为Postal Box，它是Post Office Box的缩写，意思即“�
  
 一、三个军事“州”
  
-1. AA， 表示Armed Forces (the) Americas 美洲军事
+1. AA， 表示 Armed Forces (the) Americas 美洲军事
  
-2. AE,，表示Armed Forces Europe欧洲军事
+2. AE,，表示 Armed Forces Europe 欧洲军事
  
-3. AP，表示Armed Forces Pacific太平洋军事
+3. AP，表示 Armed Forces Pacific 太平洋军事
  
 二、两个军事“城市”
  
-APO，表示Army Post Office 军队邮局
+APO，表示 Army Post Office 军队邮局
  
-FPO，表示Fleet Post Office舰队邮局
+FPO，表示 Fleet Post Office 舰队邮局
  
 根据这样的构建，一个典型的海外军事邮件地址看起来应该下面这样：
  
@@ -34,3 +36,7 @@ Name　　Postal Service Center + Identifier　　FPO, AP ZIP
 通过让所有海外军事邮件符合国内邮件处理计划，美国邮政可以轻松的使用其先进的邮件处理机器分类和处理这些海外军事邮件，就如处理普通邮件一样。
 
 如果你的地址包含了APO/FPO的时候，就一定要多问问货运代理商是否能够送到；有些货运代理商即使是USPS也是无法送到APO/FP哦地址的；
+
+
+![image](https://user-images.githubusercontent.com/89124962/130026133-36ec34b4-c02d-4c28-a351-64fe0bcf5564.png)
+
